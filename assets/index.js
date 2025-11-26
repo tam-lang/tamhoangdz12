@@ -3,7 +3,7 @@
 //▬▬▬▬▬▬▬▬▬▬
 var stop, staticx;
 var img = new Image();
-img.src = "https://i.imgur.com/R9XUjfF.png";
+img.src = "https://files.catbox.moe/1nbju2.mp4";
 
 			function Sakura(x, y, s, r, fn) {
 				this.x = x;
